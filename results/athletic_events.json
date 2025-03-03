@@ -1,0 +1,104 @@
+{
+    "events": [
+        {
+            "duTeam": "University of Denver Men's Ice Hockey",
+            "opponent": "St. Cloud State",
+            "date": "2025-02-28T19:00:00"
+        },
+        {
+            "duTeam": "University of Denver Women's Basketball",
+            "opponent": "South Dakota",
+            "date": "2025-03-01T00:00:00"
+        },
+        {
+            "duTeam": "University of Denver Women's Lacrosse",
+            "opponent": "Maryland",
+            "date": "2025-03-01T10:00:00"
+        },
+        {
+            "duTeam": "University of Denver Men's Basketball",
+            "opponent": "South Dakota State",
+            "date": "2025-03-01T13:00:00"
+        },
+        {
+            "duTeam": "University of Denver Women's Tennis",
+            "opponent": "Kansas City",
+            "date": "2025-03-01T13:30:00"
+        },
+        {
+            "duTeam": "University of Denver Men's Ice Hockey",
+            "opponent": "St. Cloud State",
+            "date": "2025-03-01T18:00:00"
+        },
+        {
+            "duTeam": "University of Denver Women's Tennis",
+            "opponent": "Omaha",
+            "date": "2025-03-02T10:00:00"
+        },
+        {
+            "duTeam": "University of Denver Men's Tennis",
+            "opponent": "Utah",
+            "date": "2025-03-02T12:00:00"
+        },
+        {
+            "duTeam": "University of Denver Men's Lacrosse",
+            "opponent": "Quinnipiac",
+            "date": "2025-03-02T12:00:00"
+        },
+        {
+            "duTeam": "University of Denver Men's Soccer",
+            "opponent": "Colorado Rapids II",
+            "date": "2025-03-02T13:00:00"
+        },
+        {
+            "duTeam": "University of Denver Women's Golf",
+            "eventType": "Women's Golf",
+            "date": "2025-03-03T00:00:00"
+        },
+        {
+            "duTeam": "University of Denver Women's Golf",
+            "eventType": "Women's Golf",
+            "date": "2025-03-04T00:00:00"
+        },
+        {
+            "duTeam": "University of Denver Skiing",
+            "eventType": "Skiing",
+            "date": "2025-03-05T00:00:00"
+        },
+        {
+            "duTeam": "University of Denver Women's Lacrosse",
+            "opponent": "Michigan",
+            "date": "2025-03-05T12:00:00"
+        },
+        {
+            "duTeam": "University of Denver Women's Basketball",
+            "opponent": "Omaha",
+            "date": "2025-03-05T15:30:00"
+        },
+        {
+            "duTeam": "University of Denver Skiing",
+            "eventType": "Skiing",
+            "date": "2025-03-06T00:00:00"
+        },
+        {
+            "duTeam": "University of Denver Women's Basketball",
+            "opponent": "South Dakota State",
+            "date": "2025-03-06T13:30:00"
+        },
+        {
+            "duTeam": "University of Denver Men's Basketball",
+            "opponent": "St. Thomas",
+            "date": "2025-03-06T19:30:00"
+        },
+        {
+            "duTeam": "University of Denver Skiing",
+            "eventType": "Skiing",
+            "date": "2025-03-07T00:00:00"
+        },
+        {
+            "duTeam": "University of Denver Men's Ice Hockey",
+            "opponent": "Colorado College",
+            "date": "2025-03-07T19:00:00"
+        }
+    ]
+}
